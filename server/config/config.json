@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "F00dmaestro!",
+    "database": "postgres",
+    "host": "booking-app-dev.c5rqtbbe7p8z.us-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "F00dmaestro!",
+    "database": "booking-app-dev",
+    "host": "booking-app-dev.c5rqtbbe7p8z.us-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "F00dmaestro!",
+    "database": "booking-app-dev",
+    "host": "booking-app-dev.c5rqtbbe7p8z.us-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
